@@ -1,0 +1,2 @@
+Reading from a file.
+It is really an amazing feature which allows the program to handle reading from a native file.

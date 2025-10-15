@@ -1,0 +1,3 @@
+/home/priyanshu/Learning/CPP/FoundationProjects/SimpleCalculator/build/CMakeFiles/SimpleCalculator.dir
+/home/priyanshu/Learning/CPP/FoundationProjects/SimpleCalculator/build/CMakeFiles/edit_cache.dir
+/home/priyanshu/Learning/CPP/FoundationProjects/SimpleCalculator/build/CMakeFiles/rebuild_cache.dir
