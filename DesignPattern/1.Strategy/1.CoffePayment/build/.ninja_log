@@ -1,0 +1,12 @@
+# ninja log v5
+2	919	1760583585145327298	CMakeFiles/CoffePayment.dir/lib/PaymentStrategy.cpp.o	619579c639c53a27
+2	963	1760583585188660633	CMakeFiles/CoffePayment.dir/lib/CoffeeShop.cpp.o	8b17185708df4c02
+1	1049	1760583585279660636	CMakeFiles/CoffePayment.dir/src/main.cpp.o	a77a7b5057da5aa9
+1049	1270	1760583585496327310	CoffePayment	ccfbaa0893e90831
+2	731	1760583603821412317	CMakeFiles/CoffeePayment.dir/lib/PaymentStrategy.cpp.o	5cb452712581e59e
+2	632	1760589816838395242	CMakeFiles/CoffeePayment.dir/lib/CoffeeShop.cpp.o	d732a9c4db6e8d14
+1	858	1760583603949412319	CMakeFiles/CoffeePayment.dir/src/main.cpp.o	d813b1ba857283da
+859	1071	1760583604161412321	CoffeePayment	9f2282fd9b204fd6
+1	650	1760590209555827879	CMakeFiles/CoffeePayment.dir/lib/CoffeeShop.cpp.o	d732a9c4db6e8d14
+1	746	1760590209653237130	CMakeFiles/CoffeePayment.dir/src/main.cpp.o	d813b1ba857283da
+746	976	1760590209886552336	CoffeePayment	9f2282fd9b204fd6
